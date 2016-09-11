@@ -1,0 +1,2 @@
+* Sat Sep 10 2016 Ryan Parman <ryan.parman@wepay.com> 0.6.4-1
+- Bundles Consul 0.6.4.
