@@ -1,5 +1,5 @@
 NAME=consul
-VERSION=0.7.2
+VERSION=0.7.3
 EPOCH=1
 ITERATION=1
 PREFIX=/usr/local/bin
