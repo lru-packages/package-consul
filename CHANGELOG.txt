@@ -1,3 +1,6 @@
+* Thu May 11 2017 Ryan Parman <ryan@ryanparman.com> 0.8.2-1
+- Bundles Consul 0.8.2.
+
 * Wed Apr 26 2017 Ryan Parman <ryan@ryanparman.com> 0.8.1-1
 - Bundles Consul 0.8.1.
 
