@@ -1,5 +1,5 @@
 NAME=consul
-VERSION=0.8.5
+VERSION=0.9.3
 ITERATION=1.lru
 PREFIX=/usr/local/bin
 LICENSE=BSD
